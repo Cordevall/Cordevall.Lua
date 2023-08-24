@@ -1,7 +1,7 @@
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/main#readme">< Back to Cordevall</a>
 
 # Cordevall for Lua
-### The open-source simple-to-use Discord bot comes to the programming language used in Roblox!
+### The open-source simple-to-use Discord bot comes to the programming language used in Roblox! (aka Lua)
 Cordevall takes programming in Lua to the next level. With simple tutorials and an extremely tired 2-person developmrent team, you will be sure to create the discord bot of your dreams!
 
 For more bots in different programming languages plus an easy install, go to: https://github.com/Eveeifyeve/Cordevall
