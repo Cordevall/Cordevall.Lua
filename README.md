@@ -6,7 +6,7 @@ Cordevall takes programming in Lua to the next level. With simple tutorials and 
 
 For more bots in different programming languages plus a easy install, go to: https://github.com/Eveeifyeve/Cordevall
 
-## How to Install Cordevall for Lua
+## How to Install Cordevall for Lua (Windows Tutorial)
 #### Step 1:
 Go to the releases of Cordevall for Lua and install the most recent version. https://github.com/Eveeifyeve/Cordevall-Lua/releases
 
