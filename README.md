@@ -1,27 +1,31 @@
 # Cordevall for Lua
-### Basically Cordevall Discord Bot for Lua
+### The open-source simple-to-use Discord bot comes to Lua!
+Cordevall for Lua takes programming in
 
 For more bots in different programming languages, go to: https://github.com/Eveeifyeve/DiscordBots
 
-## How to Install Lua
-#### Step  1:
-Go to http://github.com/rjpcomputing/luaforwindows/releases
+## How to Install Cordevall for Lua
+#### Step 1:
+Go to the releases of Cordevall for Lua and install the most recent version.
 
 #### Step  2:
-Download the most recent version (the .exe file) and open it.
+Go to http://github.com/rjpcomputing/luaforwindows/releases
 
 #### Step  3:
+Download the most recent version (the .exe file) and open it.
+
+#### Step  4:
 Go through the installer and click Finish (optional: If you are a beginner, before you click 'Finish', click the 'Run a simple introduction' checkbox. It will open an introduction on how to use Lua.)
 
-### Before you begin, you need to install Luvit and Discordia as they aren't pre-installed into Lua for Windows.
-
-#### Step 4:
-Go to http://luvit.io and follow the instructions provided for your platform
+### Before you begin, you must install Luvit and Discordia as they aren't pre-installed into Lua for Windows.
 
 #### Step 5:
-To install Discordia, run ```lit install SinisterRectus/discordia```
+Go to http://luvit.io and follow the instructions provided for your platform
 
 #### Step 6:
+To install Discordia, run ```lit install SinisterRectus/discordia```
+
+#### Step 7:
 Run your bot script using, for example, ```luvit bot.lua```
 
 ### Example from Discordia
@@ -41,6 +45,8 @@ end)
 
 client:run('Bot INSERT_TOKEN_HERE')
 ```
+Now you can begin using Cordevall to program your dream Discord bot!
+
 # Credits:
 #### Cordevall was created by Eveeifyeve
 #### Cordevall for Lua was created by StarryTheSuperstar
