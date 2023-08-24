@@ -6,7 +6,7 @@ For more bots in different programming languages, go to: https://github.com/Evee
 
 ## How to Install Cordevall for Lua
 #### Step 1:
-Go to the releases of Cordevall for Lua and install the most recent version.
+Go to the releases of Cordevall for Lua and install the most recent version. https://github.com/Eveeifyeve/Lua_DiscordBot/releases
 
 #### Step  2:
 Go to http://github.com/rjpcomputing/luaforwindows/releases
