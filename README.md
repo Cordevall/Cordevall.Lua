@@ -2,7 +2,7 @@
 ### The open-source simple-to-use Discord bot comes to Lua!
 Cordevall for Lua takes programming in Lua to the next level. With simple tutorials and an extremely tired 2-person developmrent team, you will be sure to create the discord bot of your dreams!
 
-For more bots in different programming languages, go to: https://github.com/Eveeifyeve/Cordevall
+For more bots in different programming languages and a easy install, go to: https://github.com/Eveeifyeve/Cordevall
 
 ## How to Install Cordevall for Lua
 #### Step 1:
