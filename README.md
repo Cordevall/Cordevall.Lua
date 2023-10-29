@@ -10,7 +10,7 @@ For more bots in different programming languages plus an easy install, go to: ht
 #### Step 1:
 Go to the releases of Cordevall for Lua and install the most recent version https://github.com/Cordevall/Lua/releases
 
-OR
+**OR**
 
 Download it from our Website (Coming Soon): https://eveeifyeve.github.io/cordevall/lua
 
