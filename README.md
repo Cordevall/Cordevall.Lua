@@ -1,4 +1,4 @@
-<a href="https://github.com/Cordevall/Cordevall/tree/main#readme">< Back to Cordevall</a>
+<a href="https://github.com/Cordevall/Cordevall/#readme">< Back to Cordevall</a>
 
 # Cordevall for Lua
 ### The open-source simple-to-use Discord bot comes to the programming language used in Roblox! (aka Lua)
