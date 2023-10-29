@@ -8,7 +8,11 @@ For more bots in different programming languages plus an easy install, go to: ht
 
 ## How to Install Cordevall for Lua (Windows Tutorial)
 #### Step 1:
-Go to the releases of Cordevall for Lua and install the most recent version. https://github.com/Cordevall/Cordevall-Lua/releases
+Go to the releases of Cordevall for Lua and install the most recent version https://github.com/Cordevall/Lua/releases
+
+OR
+
+Download it from our Website (Coming Soon): https://eveeifyeve.github.io/cordevall/lua
 
 #### Step  2:
 Go to http://github.com/rjpcomputing/luaforwindows/releases
